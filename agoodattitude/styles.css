@@ -1,0 +1,39 @@
+body{
+  background-image: url(https://i.ibb.co/Xzb78g9/scifi.jpg);
+}
+
+h1{
+  font-size: 50px;
+  font-family: cursive;
+  color: yellow;
+}
+
+h2{
+  font-family: serif;
+  color: orange
+}
+
+h3{
+  font-family: sans-serif;
+  color: yellow
+}
+
+#desert{
+  width: 100px;
+  height: auto;
+}
+text{
+  font-size: 18px;
+  text-align: right;
+}
+
+.img-with-text {
+    text-align: justify;
+    width: 350px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
